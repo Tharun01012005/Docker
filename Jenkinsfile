@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "tharun0125/test"
+        IMAGE_NAME = "tharun0125/tharun0125"
         TAG = "latest"
         CONTAINER_NAME = "my-container"
         PORT = "3001"
